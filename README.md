@@ -1,0 +1,2 @@
+# burst_encrypted_identifier
+基于 Burst 时序特征的加密代理隧道下应用流量的识别方法，使用双向LSTM结合注意力机制学习特征
